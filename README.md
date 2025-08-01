@@ -2,15 +2,6 @@
   <h3 align="center">AI Resume Analyzer</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
 ## <a name="introduction">✨ Introduction</a>
 
 Build an AI-powered Resume Analyzer with React, React Router, and Puter.js! Implement seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. Get custom feedback and ATS scores tailored to each listing—all wrapped in a clean, reusable UI.
