@@ -33,6 +33,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
   }, [init]);
 
   return (
+    // to get puter functionalities
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
